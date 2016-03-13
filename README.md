@@ -1,5 +1,5 @@
 # winston-slack
-A Slack transport for winston 
+A Slack transport for [winston](https://github.com/winstonjs/winston)
 # Installation
 ```
 npm install winston
