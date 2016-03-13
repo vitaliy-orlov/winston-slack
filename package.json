@@ -1,0 +1,27 @@
+{
+  "name": "winston-slack",
+  "version": "1.0.0",
+  "description": "A Slack transport for winston",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitaliy-orlov/winston-slack.git"
+  },
+  "keywords": [
+    "winston",
+    "slack",
+    "logging"
+  ],
+  "author": "Vitaliy Orlov <vitaliuorlov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitaliy-orlov/winston-slack/issues"
+  },
+  "homepage": "https://github.com/vitaliy-orlov/winston-slack#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "winston": "^2.2.0"
+  }
+}
